@@ -45,6 +45,10 @@ def ahmed():
   <a href="#"><img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Udacity-Computer%20Vision%20Nanodegree-0056D2?style=for-the-badge&logo=udacity" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Udacity-Cloud%20Development%20Nanodegree-0056D2?style=for-the-badge&logo=udacity" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Udacity-ML%20Introduction%20Nanodegree-0056D2?style=for-the-badge&logo=udacity" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Udacity-Advanced%20Data%20Analyst%20Nanodegree-0056D2?style=for-the-badge&logo=udacity" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Coursera-Mathematics%20for%20ML%20Specialization-0056D2?style=for-the-badge&logo=coursera" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Huawei-AI%20Certification%20(HCIA)-FF0000?style=for-the-badge&logo=huawei" /></a>
 </div>
 
 ## 💻 Technologies
@@ -78,4 +82,6 @@ def ahmed():
 ## 📫 Let's Connect
 
 <div align="center">
+  <a href="https://ahmadkhaled.com"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khaled-machine-learning-engineer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
